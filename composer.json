@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/mongodb-odm",
+    "name": "ttk04/mongodb-odm",
     "type": "library",
     "description": "Doctrine MongoDB Object Document Mapper",
     "keywords": ["odm", "database", "persistence", "mongodb"],
